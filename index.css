@@ -63,3 +63,21 @@ p {
     padding: 13.28px 0px;
     margin: 0 auto;
 }
+.leftside {
+    background-color:  rgb(191, 237, 243);
+}
+.rightside {
+    background-color: rgba(245, 232, 217, 0.582);
+}
+.ref {
+    text-decoration: none;
+    font-style: italic;
+    color: inherit;
+}
+ul {
+    list-style-type: circle;
+    padding-left: 7vw;
+}
+.oblique {
+font-style: oblique;
+}
