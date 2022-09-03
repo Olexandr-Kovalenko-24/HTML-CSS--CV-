@@ -1,0 +1,35 @@
+.header1 {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 3%;
+    font-family: cursive;
+    font-size: x-large;       
+}
+.header2 {
+    text-align: center;
+    font-size: medium; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header3 {
+    text-align: center;
+    padding: none;
+    margin-top: 1%;
+    margin-bottom: 4%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid rgb(137, 204, 248);
+    object-fit: cover;
+}
+.avposition {
+    text-align: center;
+    background-color: rgba(169, 220, 221, 0.993);
+    align-self: center;
+}
+.infoposition {
+    background-color: rgb(245, 232, 217);
+}
