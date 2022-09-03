@@ -33,3 +33,33 @@
 .infoposition {
     background-color: rgb(245, 232, 217);
 }
+.logo {
+    width: 30px;
+    }
+.buttons {
+    padding: 4px 6px 1px;
+    margin: 0% 0.5% 1.5%;
+}
+.box {
+    display: flex;
+    flex-direction: row;
+}
+.box > * {
+    flex: 1 0;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 2% 0%;
+}
+.center {
+    text-align: center;
+}
+.footercolor {
+    background-color: rgb(229, 219, 230);
+}
+.footerhead {
+    font-size: medium; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 13.28px 0px;
+    margin: 0 auto;
+}
